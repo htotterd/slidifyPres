@@ -41,5 +41,3 @@ and graph them on a line chart.
 - An intervention (such as a treatment for an infectious disease) to eliminate zombies.
   * The simulation will then end when there are either no zombies or no alive humans.
 - Running the simulation for some large number of times to figure out the average time it would take for the human population to be eradicated during a zombie apocalypse with no intervention treatment.
-
-
